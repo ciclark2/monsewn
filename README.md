@@ -3,6 +3,8 @@
 [![dependency status](https://deps.rs/repo/github/ciclark2/monsewn/status.svg)](https://deps.rs/repo/github/ciclark2/monsewn)
 [![Build Status](https://github.com/ciclark2/monsewn/workflows/CI/badge.svg)](https://github.com/ciclark2/monsewn/actions?workflow=CI)
 
+Webby torrent client written in Rust
+
 ### Testing locally
 
 Make sure you are using the latest version of stable rust by running `rustup update`.
